@@ -1,12 +1,11 @@
-## Hallo Broo! xD 👋
+## Hello 👋
 
-![Header](https://telegra.ph/file/78d96c4548bd1602ecb45.jpg)
+![Header](https://telegra.ph/file/6cd209565082966934d76.jpg)
 
-> From Zero to Hero! Cuma orang iseng 
+> everyday I create a life I love
 
 ```
-Hoi, Ane Akbar. and I'm just ordinary random shit guy.. 
-Oke itu aja thanks xD.
+Hooi , You think i'm psycho, you think i'm gone
 ```
 
 **:email: You can find me on:**
@@ -21,8 +20,4 @@ Oke itu aja thanks xD.
  
 **Main Repos:**
 
-<a href="https://github.com/eevnxx-ai/android_device_xiaomi_ugglite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eevnxx-ai&repo=android_device_xiaomi_ugglite&show_owner=true"></a>
-
-<a href="https://github.com/eevnxx-ai/android_vendor_xiaomi_ugglite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eevnxx-ai&repo=android_vendor_xiaomi_ugglite&show_owner=true"></a>
-
-<a href="https://github.com/eevnxx-ai/kernel_xiaomi_ugglite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eevnxx-ai&repo=kernel_xiaomi_ugglite&show_owner=true"></a>
+<a href="https://github.com/eevnxx-ai/OUBnew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eevnxx-ai&repo=OUBnew&show_owner=true"></a>
