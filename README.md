@@ -4,7 +4,7 @@
 ```
 ## Hello broo <img src="https://raw.githubusercontent.com/eevnxx-ai/eevnxx-ai/master/Hi.gif" width="30px"/></h1>
 
-![Header](https://telegra.ph/file/64241f6ceec044e76efef.jpg)
+![Header](https://telegra.ph/file/87dcdee41542e83ac04c7.jpg)
 
 > don't let darkness take you.
 
