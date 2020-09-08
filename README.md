@@ -6,8 +6,6 @@
 
 ![Header](https://telegra.ph/file/64241f6ceec044e76efef.jpg)
 
-<img align="left" src='https://raw.githubusercontent.com/eevnxx-ai/eevnxx-ai/master/github.gif' width='200'/>
-
 > don't let darkness take you.
 
 ```
@@ -29,3 +27,5 @@ don't you need to wake up and grab a drink?
 **Main Repos:**
 
 <a href="https://github.com/eevnxx-ai/OUBnew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eevnxx-ai&repo=OUBnew&show_owner=true"></a>
+
+<img align="left" src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='200'/>
