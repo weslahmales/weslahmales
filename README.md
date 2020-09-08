@@ -6,6 +6,8 @@
 
 ![Header](https://telegra.ph/file/64241f6ceec044e76efef.jpg)
 
+<img align="left" src='https://raw.githubusercontent.com/eevnxx-ai/eevnxx-ai/master/github.gif' width='200'/>
+
 > don't let darkness take you.
 
 ```
