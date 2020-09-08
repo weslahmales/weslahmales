@@ -9,7 +9,9 @@
 > don't let darkness take you.
 
 ```
-If life becomes as horrible as your worst ever nightmare, don't you need to wake up and grab a drink?
+If life becomes as horrible as your worst ever nightmare,
+don't you need to wake up and grab a drink?
+
 ```
 
 **:email: You can find me on:**
