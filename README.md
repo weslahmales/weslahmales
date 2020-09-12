@@ -31,6 +31,11 @@ don't you need to wake up and grab a drink?
 
 ⚡ Fun fact **I am Noob**
 
+### TO-DO:
+- [ ] Learn more all about programming
+- [ ] Looking for a life partner? Maybe :3
+- [ ] Graduate from school
+
 📫 How to reach me **https://eevnxx-ai.github.io**
 
 <img align="left" src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='200'/>
