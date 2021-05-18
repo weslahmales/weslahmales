@@ -6,11 +6,10 @@
 
 ![Header](https://telegra.ph/file/e6b636cb81768ae6d62b4.jpg)
 
-> don't let darkness take you.
+> (n.) selfish, impatient, and insecure.
 
 ```
-If life becomes as horrible as your worst ever nightmare,
-don't you need to wake up and grab a drink?
+sorry, I'm human like a trash
 
 ```
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Deevnxx-ai&longCache=true)](https://github.com/eevnxx-ai)
@@ -34,7 +33,7 @@ don't you need to wake up and grab a drink?
 ### TO-DO:
 - [ ] Learn more all about programming
 - [ ] Looking for a life partner? Maybe :3
-- [ ] Graduate from school
+- [ ] Nguli
 
 📫 How to reach me **https://eevnxx-ai.github.io**
 
