@@ -1,40 +1,82 @@
-```diff
-+eevnxx-ai's
--github
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY5aXlycnV4aGlkOHptYnNmMzBxeTNpMHh1ODljY3A0MXdyc210YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41K3o9144sSg1S7K/giphy.gif" alt="Cosmic Planet GIF Header" width="100%" height="250" style="object-fit: cover; border-radius: 12px;" />
+</p>
+
+<div align="center">
+
+# 🪐 `WESLAHMALES`
+### `[ DEEP SPACE EXOPLANET LABORATORY ]`
+
+```text
+   ★                 .                 .          *
+       .          🪐    *          .          .
+     .      *          .         .       ★      .
 ```
-## Hello broo <img src="https://raw.githubusercontent.com/eevnxx-ai/eevnxx-ai/master/Hi.gif" width="30px"/></h1>
 
-![Header](https://telegra.ph/file/e6b636cb81768ae6d62b4.jpg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&height=40&lines=ORBITING+GALACTIC+COORDINATES...;SECONDARY+SANDBOX+LABORATORY+ACTIVE;PRIMARY+NEXUS%3A+%40rwxrx-rx;SYSTEM+STATUS%3A+100%25+NOMINAL)](https://git.io/typing-svg)
 
-> (n.) selfish, impatient, and insecure.
+</div>
 
+---
+
+> [!NOTE]
+> **SECONDARY SPACE LAB DETECTED**  
+> This terminal operates as a secondary experimental sector for **[@rwxrx-rx](https://github.com/rwxrx-rx)**. For primary C/C++ Linux Kernel development, ARM64 optimizations, and system toolchain builds, visit the main command station: **[github.com/rwxrx-rx](https://github.com/rwxrx-rx)**.
+
+> [!TIP]
+> **CURRENT MISSION OBJECTIVE**  
+> Exploring low-level systems, kernel development, and automated CI/CD workflows across deep-space compute nodes.
+
+---
+
+### 🪐 COSMIC TECH STACK
+
+```techstack
+┌─ [ COMPILERS & LANGUAGES ] ──────────────────────────┐
+│  • C / C++ 17/20    • Linux Bash Scripting          │
+│  • Python 3         • Low-Level System Architectures│
+└──────────────────────────────────────────────────────┘
+┌─ [ ENVIRONMENT & TOOLING ] ──────────────────────────┐
+│  • Linux (Kernel 4.x/5.x/6.x)  • Git & GitHub CI/CD  │
+│  • Docker Containers           • LLVM / Clang / GCC  │
+└──────────────────────────────────────────────────────┘
 ```
-sorry, I'm human like a trash
 
-```
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Deevnxx-ai&longCache=true)](https://github.com/eevnxx-ai)
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-**:email: You can find me on:**
+---
 
-[![TG](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=Telegram&logoColor=white&link=https://t.me/heroisme)](https://t.me/heroisme) <br />
+### 📊 GALACTIC TELEMETRY STATS
 
-**:pushpin: Profile overview:**
- 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=eevnxx-ai.eevnxx-ai)
- 
-![eevnxx-ai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eevnxx-ai&show_icons=true)
- 
-**Main Repos:**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weslahmales&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslahmales&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+</p>
 
-<a href="https://github.com/eevnxx-ai/OUBnew"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eevnxx-ai&repo=OUBnew&show_owner=true"></a>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=weslahmales.weslahmales&left_color=181926&right_color=bd93f9" alt="Visitor Count" />
+</p>
 
-⚡ Fun fact **I am Noob**
+---
 
-### TO-DO:
-- [ ] Learn more all about programming
-- [ ] Looking for a life partner? Maybe :3
-- [ ] Nguli
+<p align="center">
+  <a href="https://github.com/rwxrx-rx">
+    <img src="https://img.shields.io/badge/MAIN_COMMAND-@rwxrx--rx-bd93f9?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/heroisme">
+    <img src="https://img.shields.io/badge/SUB_SPACE_COMM-TELEGRAM-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-📫 How to reach me **https://eevnxx-ai.github.io**
-
-<img align="left" src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='200'/>
+<p align="center">
+  <code>[ ORBITAL TRANSMISSION COMPLETED // WARP SPEED TO @rwxrx-rx 🌌 ]</code>
+</p>
