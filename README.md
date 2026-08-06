@@ -13,19 +13,29 @@
      .      *          .         .       ★      .
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&height=40&lines=ORBITING+GALACTIC+COORDINATES...;SECONDARY+SANDBOX+LABORATORY+ACTIVE;PRIMARY+NEXUS%3A+%40rwxrx-rx;SYSTEM+STATUS%3A+100%25+NOMINAL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&height=40&lines=ORBITING+GALACTIC+COORDINATES...;SECONDARY+SANDBOX+LABORATORY+ACTIVE;PRIMARY+ACTIVE+NEXUS%3A+%40rwxrx-rx;SYSTEM+STATUS%3A+100%25+NOMINAL)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-> [!NOTE]
-> **SECONDARY SPACE LAB DETECTED**  
-> This terminal operates as a secondary experimental sector for **[@rwxrx-rx](https://github.com/rwxrx-rx)**. For primary C/C++ Linux Kernel development, ARM64 optimizations, and system toolchain builds, visit the main command station: **[github.com/rwxrx-rx](https://github.com/rwxrx-rx)**.
+> [!IMPORTANT]
+> **⚡ PRIMARY & ACTIVE ACCOUNT LINK**  
+> Ini adalah akun lama / laboratorium eksperimental sekunder. Seluruh aktivitas utama, pengembangan kernel Linux, toolchain LLVM/Clang, dan repositori aktif berjalan di akun utama saya: **[@rwxrx-rx](https://github.com/rwxrx-rx)**.
 
-> [!TIP]
-> **CURRENT MISSION OBJECTIVE**  
-> Exploring low-level systems, kernel development, and automated CI/CD workflows across deep-space compute nodes.
+---
+
+### 🛸 ACTIVE COMMAND CENTER
+
+<p align="center">
+  <a href="https://github.com/rwxrx-rx">
+    <img src="https://img.shields.io/badge/ACTIVE_MAIN_ACCOUNT-@rwxrx--rx-00f0ff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rwxrx-rx/kernel_xiaomi_mt6833">
+    <img src="https://img.shields.io/badge/ACTIVE_KERNEL_REPO-kernel__xiaomi__mt6833-38bdf8?style=for-the-badge&logo=linux&logoColor=black" />
+  </a>
+</p>
 
 ---
 
@@ -54,11 +64,19 @@
 
 ---
 
-### 📊 GALACTIC TELEMETRY STATS
+### 🛰️ SECTOR STATUS & TRANSMISSION
+
+```sysinfo
+┌─ [ DEEP SPACE NODE TELEMETRY ] ───────────────────────────────────┐
+│  • SECTOR STATUS   : Archive / Secondary Sandbox Node             │
+│  • ENERGY OUTPUT   : Low Energy Mode (Conserving Core Power)      │
+│  • PRIMARY RELAY   : All Active Operations Directed to @rwxrx-rx  │
+│  • TELEMETRY LOG   : Historical Experiments & Archived Repos      │
+└───────────────────────────────────────────────────────────────────┘
+```
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weslahmales&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslahmales&layout=compact&theme=dracula&hide_border=true&langs_count=6" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Space Quote" />
 </p>
 
 <p align="center">
