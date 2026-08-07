@@ -5,7 +5,7 @@
 <div align="center">
 
 # 🪐 `WESLAHMALES`
-### `[ DEEP SPACE EXOPLANET LABORATORY ]`
+### `[ ABANDONED DEEP SPACE GRAVEYARD ]`
 
 ```text
    ★                 .                 .          *
@@ -13,15 +13,19 @@
      .      *          .         .       ★      .
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&height=40&lines=ORBITING+GALACTIC+COORDINATES...;SECONDARY+SANDBOX+LABORATORY+ACTIVE;PRIMARY+ACTIVE+NEXUS%3A+%40rwxrx-rx;SYSTEM+STATUS%3A+100%25+NOMINAL)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=14&pause=1000&color=BD93F9&center=true&vCenter=true&width=650&height=40&lines=NAME+SAYS+IT+ALL%3A+WES+LAH+MALES...+%F0%9F%92%A4;IN+SPACE%2C+NO+ONE+CAN+HEAR+YOUR+CODE+BOOTLOOP...+%F0%9F%92%80;ABANDONED+CODE+DUMP+%2B+COSMIC+GRAVEYARD;MAIN+NEXUS+HAS+MOVED+TO%3A+%40rwxrx-rx;WARP+SPEED+OUT+OF+HERE+%E2%9A%A1" alt="Typing SVG" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-> [!IMPORTANT]
-> **⚡ PRIMARY & ACTIVE ACCOUNT LINK**  
-> Ini adalah akun lama / laboratorium eksperimental sekunder. Seluruh aktivitas utama, pengembangan kernel Linux, toolchain LLVM/Clang, dan repositori aktif berjalan di akun utama saya: **[@rwxrx-rx](https://github.com/rwxrx-rx)**.
+> [!WARNING]
+> **💀 DORMANT NODE & GRAVEYARD NOTICE**  
+> Akun ini resmi ditinggalkan sesuai nama username-nya (**"wes lah males"**). Segala bentuk penderitaan *low-level*, kompilasi kernel Linux, *bootloop*, dan repositori aktif telah dipindahkan sepenuhnya ke akun utama: **[@rwxrx-rx](https://github.com/rwxrx-rx)**.
 
 ---
 
@@ -29,7 +33,7 @@
 
 <p align="center">
   <a href="https://github.com/rwxrx-rx">
-    <img src="https://img.shields.io/badge/ACTIVE_MAIN_ACCOUNT-@rwxrx--rx-00f0ff?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/PRIMARY_ACTIVE_ACCOUNT-@rwxrx--rx-00f0ff?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/rwxrx-rx/kernel_xiaomi_mt6833">
@@ -39,17 +43,15 @@
 
 ---
 
-### 🪐 COSMIC TECH STACK
+### 🪐 ANCIENT TECH STACK (DECAYING IN VACUUM)
 
-```techstack
-┌─ [ COMPILERS & LANGUAGES ] ──────────────────────────┐
-│  • C / C++ 17/20    • Linux Bash Scripting          │
-│  • Python 3         • Low-Level System Architectures│
-└──────────────────────────────────────────────────────┘
-┌─ [ ENVIRONMENT & TOOLING ] ──────────────────────────┐
-│  • Linux (Kernel 4.x/5.x/6.x)  • Git & GitHub CI/CD  │
-│  • Docker Containers           • LLVM / Clang / GCC  │
-└──────────────────────────────────────────────────────┘
+```sysinfo
+┌─ [ ARCHIVED LANGUAGES & TOOLS ] ─────────────────────────────────┐
+│  • C / C++ 17/20    (Decaying into cosmic radiation)             │
+│  • Linux Bash       (Automation for tasks I was too lazy to do)  │
+│  • Python 3         (Scripts written at 3 AM and forgotten)      │
+│  • Docker & Git     (Isolated in outer space away from human life) │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="left">
@@ -64,15 +66,16 @@
 
 ---
 
-### 🛰️ SECTOR STATUS & TRANSMISSION
+### 🛰️ SECTOR TELEMETRY & BLACK HOLE STATUS
 
 ```sysinfo
-┌─ [ DEEP SPACE NODE TELEMETRY ] ───────────────────────────────────┐
-│  • SECTOR STATUS   : Archive / Secondary Sandbox Node             │
-│  • ENERGY OUTPUT   : Low Energy Mode (Conserving Core Power)      │
-│  • PRIMARY RELAY   : All Active Operations Directed to @rwxrx-rx  │
-│  • TELEMETRY LOG   : Historical Experiments & Archived Repos      │
-└───────────────────────────────────────────────────────────────────┘
+┌─ [ DEEP SPACE DORMANT NODE ] ─────────────────────────────────────────┐
+│  • SECTOR STATUS   : Abandoned Archive / "Wes Lah Males" Mode         │
+│  • LIFE SUPPORT    : 0% (Developer moved to @rwxrx-rx)                │
+│  • ATMOSPHERE      : 100% Vacuum, Dust & Forgotten Unresolved Bugs   │
+│  • EMERGENCY EVAC  : Escape to @rwxrx-rx before this node collapses   │
+│  • BUG COUNT       : Untouched since the origin of time 💀             │
+└───────────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
@@ -96,5 +99,5 @@
 </p>
 
 <p align="center">
-  <code>[ ORBITAL TRANSMISSION COMPLETED // WARP SPEED TO @rwxrx-rx 🌌 ]</code>
+  <code>while (males) { sleep(∞); abandon_node(); } // WARP SPEED TO @rwxrx-rx 💀🌌</code>
 </p>
